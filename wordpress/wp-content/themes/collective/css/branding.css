@@ -1,0 +1,340 @@
+/*------------------------------------------------------------------
+[4. brand color]
+*/
+/*
+brand color for testing
+#ff2333
+rgb(255, 35, 51)
+
+#987a52
+rgba(152, 121, 81, 0.8)
+*/
+/*------------------------------------------------------------------
+[4.1 brand text color]
+*/
+header .current-menu-item > a{
+	/*color: #987a52;*/
+}
+/*------------------------------------------------------------------
+[4.2 brand hover text color]
+*/
+.header-v1 .menu > li:hover > a, .header-v2 .menu > li:hover > a, .header-v3 .menu > li:hover > a, .header-v5 .menu > li:hover > a, .header-v6 .menu > li:hover > a,
+.header-v1 .menu ul li:hover > a, .header-v2 .menu ul li:hover > a, .header-v3 .menu ul li:hover > a, .header-v5 .menu ul li:hover > a, .header-v6 .menu ul li:hover > a,
+header .circle-shares li a:hover,
+.owl-container nav.style-1 div:hover, .royal-slider-container nav.style-1 div:hover,
+.owl-container nav.style-2 div:hover, .royal-slider-container nav.style-1 div:hover,
+.owl-container nav.style-3 div:hover, .royal-slider-container nav.style-1 div:hover,
+.vertical-project:hover .text h1,
+.circle-shares li a:hover{
+	/*color: #987a52;*/
+}
+
+/*------------------------------------------------------------------
+[4.3 brand background(overlay) color]
+*/
+.portfolio-items .overlay,
+.horizontal-mosaic .overlay,
+.blog-item .overlay,
+.blog-masonry-item .overlay{
+    /*background-color: rgba(152, 121, 81, 0.8);*/
+}
+
+.vc_progress_bar .vc_single_bar .vc_bar, header > div.responsive-header .responsive-menu > a{
+	/*background-color: rgba(152, 121, 81, 1);*/
+}
+
+/*------------------------------------------------------------------
+[1. header options for all header types]
+*/
+/*------------------------------------------------------------------
+[1.1 header background color]
+*/
+header{
+	/*background: #fbfbfb;*/
+}
+
+/*------------------------------------------------------------------
+[1.2 header divider color]
+*/
+header{
+	/*border-bottom: 1px solid #dddddd;*/
+}
+
+/*------------------------------------------------------------------
+[1.3 main menu items text color, header style-5 icon color]
+*/
+.header-v1 .menu, .header-v2 .menu, .header-v3 .menu, .header-v5 .menu, .header-v6 .menu{
+	/*color: #45b7a2;*/
+}
+
+/*------------------------------------------------------------------
+[1.4 main menu items hover text color]
+*/
+.header-v1 .menu > li:hover > a, .header-v2 .menu > li:hover > a, .header-v3 .menu > li:hover > a, .header-v5 .menu > li:hover > a, .header-v6 .menu > li:hover > a{
+	/*color: #3e9686;*/
+}
+
+/*------------------------------------------------------------------
+[1.5 sub menu items text color]
+*/
+.header-v1 .menu ul.sub-menu, .header-v2 .menu > li > ul.sub-menu,
+.header-v1 .menu ul.children, .header-v2 .menu > li > ul.children,
+.header-v1 .menu > li > ul.sub-menu, .header-v2 .menu > li > ul.sub-menu 
+.header-v1 .menu > li > ul.children, .header-v2 .menu > li > ul.children,
+.header-v3 .menu > li > ul.sub-menu, .header-v3 .menu-menu-container:first-of-type .menu > li > ul.sub-menu,
+.header-v5 ul.sub-menu, .header-v5 ul.children,
+.header-v6 ul.sub-menu, .header-v6 ul.children, .header-v6 .menu > li > ul.sub-menu, .header-v6 .menu > li > ul.children{
+	/*color: #2b635b;*/
+}
+
+/*------------------------------------------------------------------
+[1.6 sub menu items hover color]
+*/
+.header-v1 .menu ul li:hover > a, .header-v2 .menu ul li:hover > a, .header-v3 .menu ul li:hover > a, .header-v5 .menu ul li:hover > a, .header-v6 .menu ul li:hover > a{
+	/*color: #15312d;*/
+}
+
+/*------------------------------------------------------------------
+[1.7 sub menu items background color, header style v-5 backdrop color]
+*/
+.header-v1 .menu ul.sub-menu, .header-v2 .menu ul.sub-menu,
+.header-v1 .menu ul.children, .header-v2 .menu ul.children,
+.header-v1 .menu > li > ul.sub-menu, .header-v2 .menu > li > ul.sub-menu 
+.header-v1 .menu > li > ul.children, .header-v2 .menu > li > ul.children,
+.header-v3 .menu .sub-menu, .header-v3 .menu ul.children,
+.header-v6 .menu ul.sub-menu, .header-v6 .menu ul.children{
+	/*background-color: #fbfbfb;*/
+}
+
+.header-v1 .menu > li > ul.sub-menu:after, .header-v2 .menu > li > ul.sub-menu:after,
+.header-v1 .menu > li > ul.children:after, .header-v2 .menu > li > ul.children:after,
+.header-v3 .menu > li > ul.sub-menu:after, .header-v3 .menu-menu-container:first-of-type .menu > li > ul.sub-menu:after,
+.header-v3 .menu > li > ul.children:after, .header-v3 .menu-menu-container:first-of-type .menu > li > ul.children:after,
+.header-v6 .menu > li > ul.sub-menu:after, .header-v6 .menu > li > ul.children:after{
+	/*border-left: 10px solid rgba(0, 0, 0, 0);
+	border-bottom: 10px solid #fbfbfb;
+	border-right: 10px solid rgba(0, 0, 0, 0);*/
+}
+
+.header-v1 .menu ul.sub-menu li > ul.sub-menu:after, .header-v1 .menu ul.sub-menu li > ul.children:after,
+.header-v6 .menu ul.sub-menu li > ul.sub-menu:after, .header-v6 .menu ul.sub-menu li > ul.children:after{
+	/*border-top: 10px solid rgba(0, 0, 0, 0);
+	border-right: 10px solid #fbfbfb;
+	border-bottom: 10px solid rgba(0, 0, 0, 0);*/
+}
+
+.header-v2 .menu ul.sub-menu li > ul.sub-menu:after, 
+.header-v2 .menu ul.sub-menu li > ul.children:after{
+	/*border-top: 10px solid rgba(255, 0, 0, 0);
+	border-left: 10px solid #fbfbfb;
+	border-bottom: 10px solid rgba(255, 0, 0, 0);*/
+}
+
+.header-v3 .menu > li > ul.sub-menu ul:after,
+.header-v3 .menu > li > ul.children ul:after{
+	/*border-top: 10px solid rgba(255, 0, 0, 0);
+    border-right: 10px solid #fbfbfb;
+    border-bottom: 10px solid rgba(255, 0, 0, 0);*/
+}
+
+.header-v3 .menu-menu-container:first-of-type .menu > li > ul.sub-menu ul:after,
+.header-v3 .menu-menu-container:first-of-type .menu > li > ul.children ul:after{
+	/*border-top: 10px solid rgba(255, 0, 0, 0);
+    border-left: 10px solid #fbfbfb;
+    border-bottom: 10px solid rgba(255, 0, 0, 0);*/
+}
+
+.header-v5 .menu-icon > div{
+	/*background-color: rgba(251, 251, 251, 0.8);*/
+}
+
+/*------------------------------------------------------------------
+[1.8 sub menu items border color]
+*/
+.header-v1 .menu ul.sub-menu, .header-v2 .menu ul.sub-menu,
+.header-v1 .menu ul.children, .header-v2 .menu ul.children, 
+.header-v1 .menu > li > ul.sub-menu, .header-v2 .menu > li > ul.sub-menu
+.header-v1 .menu > li > ul.children, .header-v2 .menu > li > ul.children,
+.header-v3 .menu .sub-menu, .header-v3 .menu ul.children,
+.header-v6 .menu ul.sub-menu, .header-v6 .menu ul.children{
+	/*border-color: #151515;*/
+}
+
+.header-v1 .menu > li > ul.sub-menu:before, .header-v2 .menu > li > ul.sub-menu:before,
+.header-v1 .menu > li > ul.children:before, .header-v2 .menu > li > ul.children:before,
+.header-v3 .menu > li > ul.sub-menu:before, .header-v3 .menu-menu-container:first-of-type .menu > li > ul.sub-menu:before,
+.header-v6 .menu > li > ul.sub-menu:before, .header-v6 .menu > li > ul.children:before{
+	/*border-left: 10px solid rgba(0, 0, 0, 0);
+	border-bottom: 10px solid #151515;
+	border-right: 10px solid rgba(0, 0, 0, 0);*/
+}
+
+
+.header-v1 .menu ul.sub-menu li > ul.sub-menu:before, .header-v1 .menu ul.sub-menu li > ul.children:before,
+.header-v3 .menu > li > ul.sub-menu ul:before, .header-v3 .menu > li > ul.children ul:before,
+.header-v6 .menu ul.sub-menu li > ul.sub-menu:before, .header-v6 .menu ul.sub-menu li > ul.children:before{
+	/*border-top: 10px solid rgba(0, 0, 0, 0);
+	border-right: 10px solid #151515;
+	border-bottom: 10px solid rgba(0, 0, 0, 0);*/
+}
+
+.header-v2 .menu ul.sub-menu li > ul.sub-menu:before,
+.header-v2 .menu ul.sub-menu li > ul.children:before,
+.header-v3 .menu-menu-container:first-of-type .menu > li > ul.sub-menu ul:before,
+.header-v3 .menu-menu-container:first-of-type .menu > li > ul.children ul:before{
+    /*border-top: 10px solid rgba(255, 0, 0, 0);
+    border-left: 10px solid #151515;
+    border-bottom: 10px solid rgba(255, 0, 0, 0);*/
+}
+
+/*------------------------------------------------------------------
+[1.9.1 header style v-5 icon color]
+*/
+.header-v5 .menu-icon > a{
+	/*color: purple;*/
+}
+
+/*------------------------------------------------------------------
+[1.9.2 header style v-5 icon hover color]
+*/
+.header-v5 .menu-icon > a:hover{
+	/*color: grey;*/
+}
+
+
+
+
+
+/*------------------------------------------------------------------
+[2. shares options]
+*/
+/*------------------------------------------------------------------
+[2.1 enable/disable shares]
+*/
+header .shares-container{
+	/*display: none;*/
+}
+
+/*------------------------------------------------------------------
+[2.2 shares icon color and border color]
+*/
+header .circle-shares li a{
+	/*color: #999;
+	border-color: #eee;*/
+}
+
+/*------------------------------------------------------------------
+[2.3 shares icon color and border color on hover]
+*/
+header .circle-shares li a:hover{
+	/*color: #45b7a2;
+	border-color: #3e9686;*/
+}
+
+
+
+
+
+
+/*------------------------------------------------------------------
+[3. typography options]
+*/
+
+/*------------------------------------------------------------------
+[3.1 font family]
+*/
+
+/*------------------------------------------------------------------
+[3.2 text and paragraph options]
+*/
+/*------------------------------------------------------------------
+[3.2.1 text and paragraph color]
+*/
+p, html, body{
+	/*color: #151515;*/
+}
+
+/*------------------------------------------------------------------
+[3.2.2 text and paragraph font size]
+*/
+p, html, body{
+	/*font-size: 14px;*/
+}
+
+/*------------------------------------------------------------------
+[3.2.3 text and paragraph font weight]
+*/
+p, html, body{
+	/*font-weight: 100;*/
+}
+
+/*------------------------------------------------------------------
+[3.3 heading options]
+*/
+/*------------------------------------------------------------------
+[3.3.1 headings color]
+*/
+h1, h2, h3, h4, h5, h6{
+	/*color: #4cadc9;*/
+}
+
+/*------------------------------------------------------------------
+[3.3.2 headings font weight]
+*/
+h1, h2, h3, h4, h5, h6{
+	/*font-weight: 500;*/
+}
+
+/*------------------------------------------------------------------
+[3.3.3 stoned heading color]
+*/
+.collective-title, .single-portfolio-container .collective-title, h2.wpb_heading{
+	/*color: #4cadc9;*/
+}
+
+/*------------------------------------------------------------------
+[3.3.4 stoned heading font size]
+*/
+.collective-title, .single-portfolio-container .collective-title, h2.wpb_heading{
+	/*font-size: 16px;*/
+}
+
+/*------------------------------------------------------------------
+[3.3.5 stoned heading font weight]
+*/
+.collective-title, .single-portfolio-container .collective-title, h2.wpb_heading{
+	/*font-weight: 100;*/
+}
+
+/*------------------------------------------------------------------
+[3.3.6 stoned heading disable bottom line]
+*/
+.collective-title:after, .single-portfolio-container .collective-title, h2.wpb_heading:after{
+	/*opacity: 0;
+	padding: 0;*/
+}
+
+
+
+
+/*------------------------------------------------------------------
+[filter customization]
+*/
+/*filter v1 background color*/
+.portfolio-filter-v1{
+	/*background-color: #ffffff;*/
+}
+
+/*filter v1 text color*/
+.portfolio-filter-v1{
+    /*color: #151515;*/
+}
+
+/*filter v2 text color*/
+.portfolio-filter-v2 ul li{
+    /*color: #151515;*/
+}
+
+.portfolio-filter-v2 ul li.active, .guxhi{
+	/*color: #ff2333;*/
+}

@@ -1,0 +1,1589 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Collective 1.0\n"
+"POT-Creation-Date: 2016-09-17 12:48+0200\n"
+"PO-Revision-Date: 2016-09-05 16:13+0200\n"
+"Last-Translator: \n"
+"Language-Team: StonedThemes\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_150\n"
+"X-Poedit-KeywordsList: __;esc_html_e;_e;esc_html__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:11
+msgid "Archive"
+msgstr ""
+
+#: archive.php:14 search.php:12
+msgid "No Result found"
+msgstr ""
+
+#: archive.php:15 search.php:13
+msgid "Sorry we couldn't find any results."
+msgstr ""
+
+#: archive.php:57 search.php:55
+msgid "<span><i class=\"fa fa-long-arrow-left\"></i> PREV.</span>"
+msgstr ""
+
+#: archive.php:61 search.php:59
+msgid "<span>NEXT <i class=\"fa fa-long-arrow-right\"></i></span>"
+msgstr ""
+
+#: comments.php:3
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:14
+#, php-format
+msgid "Leave a comment to %s"
+msgstr ""
+
+#: comments.php:15
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:16
+msgid "LEAVE THE COMMENT"
+msgstr ""
+
+#: comments.php:20
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:25
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:51
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:63
+msgid "COMMENTS"
+msgstr ""
+
+#: comments.php:83
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:20
+msgid "General Options"
+msgstr ""
+
+#: functions.php:21
+msgid "Collective Options"
+msgstr ""
+
+#: functions.php:29
+msgid "Theme Header Settings"
+msgstr ""
+
+#: functions.php:30
+msgid "Header"
+msgstr ""
+
+#: functions.php:35
+msgid "Theme Footer Settings"
+msgstr ""
+
+#: functions.php:36
+msgid "Footer"
+msgstr ""
+
+#: functions.php:40
+msgid "Theme Branding Settings"
+msgstr ""
+
+#: functions.php:41
+msgid "Branding"
+msgstr ""
+
+#: functions.php:45
+msgid "Theme Shop Settings"
+msgstr ""
+
+#: functions.php:46
+msgid "Shop"
+msgstr ""
+
+#: functions.php:110
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:111
+msgid "Secondary Menu"
+msgstr ""
+
+#: functions.php:121
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:123
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:156 functions.php:158
+msgid "Footer Sidebar1"
+msgstr ""
+
+#: functions.php:165 functions.php:167
+msgid "Footer Sidebar2"
+msgstr ""
+
+#: functions.php:174 functions.php:176
+msgid "Footer Sidebar3"
+msgstr ""
+
+#: functions.php:183 functions.php:185
+msgid "Footer Sidebar4"
+msgstr ""
+
+#: functions.php:192 functions.php:194
+msgid "Shop Sidebar"
+msgstr ""
+
+#: headers/header-1.php:55
+msgid "Sign In"
+msgstr ""
+
+#: headers/header-1.php:58 includes/woocommerce-functions.php:148
+msgid "View your shopping cart"
+msgstr ""
+
+#: includes/comments-template.php:21
+msgid "Pingback:"
+msgstr ""
+
+#: includes/comments-template.php:21
+msgid "(Edit)"
+msgstr ""
+
+#: includes/comments-template.php:38
+msgid "<input type=\"submit\" value=\"/ reply\">"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:128
+msgid "About Me Slider"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:139
+#: includes/visual_composer/shortcodes/sth_blogposts.php:210
+#: includes/visual_composer/shortcodes/sth_blogposts.php:253
+#: includes/visual_composer/shortcodes/sth_featuredblog.php:92
+#: includes/visual_composer/shortcodes/sth_portfolioVertical.php:126
+#: includes/visual_composer/shortcodes/sth_priceTables.php:87
+#: includes/visual_composer/shortcodes/sth_slider.php:185
+msgid "Title"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:142
+#: includes/visual_composer/shortcodes/sth_priceTables.php:90
+#: includes/visual_composer/shortcodes/sth_slider.php:188
+msgid "Enter Title"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:147
+msgid "Slider Height"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:150
+msgid "Enter slider height ex: 700px"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:154
+#: includes/visual_composer/shortcodes/sth_contact.php:193
+#: includes/visual_composer/shortcodes/sth_gallery.php:195
+#: includes/visual_composer/shortcodes/sth_smallslider.php:84
+msgid "Extra class name"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:156
+#: includes/visual_composer/shortcodes/sth_contact.php:195
+#: includes/visual_composer/shortcodes/sth_gallery.php:197
+#: includes/visual_composer/shortcodes/sth_smallslider.php:86
+#: includes/visual_composer/shortcodes/sth_smallslider.php:92
+msgid "Style particular content element differently - add a class name and refer to it in custom CSS."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:160
+#: includes/visual_composer/shortcodes/sth_gallery.php:201
+#: includes/visual_composer/shortcodes/sth_smallslider.php:90
+msgid "CSS box"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:163
+#: includes/visual_composer/shortcodes/sth_author.php:167
+#: includes/visual_composer/shortcodes/sth_gallery.php:204
+#: includes/visual_composer/shortcodes/sth_services.php:202
+#: includes/visual_composer/shortcodes/sth_smallslider.php:93
+#: includes/visual_composer/shortcodes/sth_testimonials.php:124
+msgid "Design Options"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:172
+msgid "About Me"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:182
+#: includes/visual_composer/shortcodes/sth_author.php:78
+msgid "Author Name"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:185
+#: includes/visual_composer/shortcodes/sth_testimonials.php:82
+msgid "Enter Author"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:189
+msgid "Author Name color"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:191
+msgid "Select author name color."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:197
+#: includes/visual_composer/shortcodes/sth_author.php:87
+#: includes/visual_composer/shortcodes/sth_testimonials.php:88
+msgid "Author Position"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:200
+msgid "Enter Author postion in company, or profession or any relevant info."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:204
+msgid "Author Position Color"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:206
+msgid "Select Author Position Color."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:212
+#: includes/visual_composer/shortcodes/sth_portfolioVertical.php:204
+#: includes/visual_composer/shortcodes/sth_testimonials.php:97
+msgid "Image"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:215
+#: includes/visual_composer/shortcodes/sth_author.php:108
+#: includes/visual_composer/shortcodes/sth_testimonials.php:100
+msgid "Add photo"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:221
+msgid "Author Info position"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:224
+msgid "Choose text position"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:229
+msgid "Author Cv"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:232
+msgid "If checked you can add cv data"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:238
+msgid "Author Info"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:241
+msgid "Add author informations"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:246
+msgid "CV Data"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:253
+msgid "CV Field Name"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_aboutMe.php:260
+msgid "Cv Field Value"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_author.php:69
+#: includes/visual_composer/shortcodes/sth_blogposts.php:252
+#: includes/visual_composer/shortcodes/sth_testimonials.php:79
+msgid "Author"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_author.php:81
+msgid "Enter author name"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_author.php:90
+msgid "Enter author postion in company or proffesion"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_author.php:96
+msgid "Author Link"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_author.php:99
+msgid "Add link"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_author.php:105
+msgid "Author Image"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_author.php:114
+#: includes/visual_composer/shortcodes/sth_portfolioVertical.php:144
+msgid "Display"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_author.php:117
+msgid "Choose between basic info display or more information"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_author.php:123
+msgid "Author Content"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_author.php:130
+msgid "Add author extra Information"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_author.php:135
+msgid "Social Networks"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_author.php:146
+msgid "Social Network Url"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_author.php:151
+msgid "Social Network Icon"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_author.php:158
+#: includes/visual_composer/shortcodes/sth_services.php:98
+#: includes/visual_composer/shortcodes/sth_services.php:113
+#: includes/visual_composer/shortcodes/sth_services.php:128
+#: includes/visual_composer/shortcodes/sth_services.php:143
+#: includes/visual_composer/shortcodes/sth_services.php:158
+msgid "Select icon from library."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_author.php:165
+#: includes/visual_composer/shortcodes/sth_services.php:200
+#: includes/visual_composer/shortcodes/sth_testimonials.php:122
+msgid "Css"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_blogposts.php:203
+msgid "Blog Posts"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_blogposts.php:213
+#: includes/visual_composer/shortcodes/sth_featuredblog.php:95
+msgid "Set title for this modul."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_blogposts.php:217
+msgid "Grid elements per row"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_blogposts.php:220
+msgid "Select number of single grid elements per row."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_blogposts.php:225
+msgid "Post Categories"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_blogposts.php:243
+msgid "Enter categories."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_blogposts.php:247
+msgid "Order by"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_blogposts.php:250
+msgid "Date"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_blogposts.php:251
+msgid "Order by post ID"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_blogposts.php:254
+msgid "Last modified date"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_blogposts.php:255
+msgid "Post/page parent ID"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_blogposts.php:256
+msgid "Number of comments"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_blogposts.php:257
+msgid "Menu order/Page Order"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_blogposts.php:258
+msgid "Random order"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_blogposts.php:260
+msgid "Select order type."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_blogposts.php:265
+msgid "Sort order"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_blogposts.php:268
+#: includes/visual_composer/shortcodes/sth_portfolio.php:347
+msgid "Select sorting order."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_blogposts.php:273
+#: includes/visual_composer/shortcodes/sth_portfolio.php:352
+msgid "Exclude"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_blogposts.php:276
+#: includes/visual_composer/shortcodes/sth_portfolio.php:355
+msgid "Add project posts ids split by commas."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_blogposts.php:280
+#: includes/visual_composer/shortcodes/sth_gallery2.php:279
+#: includes/visual_composer/shortcodes/sth_portfolio.php:367
+msgid "Item Display"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_blogposts.php:283
+#: includes/visual_composer/shortcodes/sth_gallery2.php:274
+#: includes/visual_composer/shortcodes/sth_gallery2.php:282
+#: includes/visual_composer/shortcodes/sth_gallery2.php:290
+#: includes/visual_composer/shortcodes/sth_gallery2.php:298
+#: includes/visual_composer/shortcodes/sth_gallery2.php:306
+#: includes/visual_composer/shortcodes/sth_gallery2.php:314
+#: includes/visual_composer/shortcodes/sth_gallery2.php:322
+#: includes/visual_composer/shortcodes/sth_gallery2.php:330
+#: includes/visual_composer/shortcodes/sth_gallery2.php:338
+#: includes/visual_composer/shortcodes/sth_gallery2.php:346
+#: includes/visual_composer/shortcodes/sth_gallery2.php:354
+#: includes/visual_composer/shortcodes/sth_gallery2.php:362
+#: includes/visual_composer/shortcodes/sth_gallery2.php:370
+#: includes/visual_composer/shortcodes/sth_portfolio.php:362
+#: includes/visual_composer/shortcodes/sth_portfolio.php:370
+#: includes/visual_composer/shortcodes/sth_portfolio.php:378
+#: includes/visual_composer/shortcodes/sth_portfolio.php:386
+#: includes/visual_composer/shortcodes/sth_portfolio.php:394
+#: includes/visual_composer/shortcodes/sth_portfolio.php:402
+#: includes/visual_composer/shortcodes/sth_portfolio.php:410
+#: includes/visual_composer/shortcodes/sth_portfolio.php:418
+#: includes/visual_composer/shortcodes/sth_portfolio.php:426
+#: includes/visual_composer/shortcodes/sth_portfolio.php:434
+#: includes/visual_composer/shortcodes/sth_portfolio.php:442
+#: includes/visual_composer/shortcodes/sth_portfolio.php:450
+#: includes/visual_composer/shortcodes/sth_portfolio.php:458
+#: includes/visual_composer/shortcodes/sth_portfolio.php:466
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:224
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:232
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:240
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:248
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:256
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:264
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:272
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:280
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:288
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:296
+msgid "Item Design"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_blogposts.php:284
+msgid "Choose item display."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_contact.php:96
+msgid "Contact"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_contact.php:100
+msgid "Map block"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_contact.php:105
+msgid "Coordinates"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_contact.php:112
+msgid "Coordinate"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_contact.php:114
+msgid "Enter google map coordinates lattitude and longtitude (ex. 43.73841760000001,7.42461579999997)."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_contact.php:120
+msgid "Map Title"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_contact.php:122
+msgid "Enter map title (Note: will display on hover in map marker)."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_contact.php:126
+msgid "Zoom Level"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_contact.php:128
+msgid "Enter zoom level 0-20."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_contact.php:132
+msgid "Map Display"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_contact.php:135
+msgid "Choose to show map on fullscreen or add map height"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_contact.php:139
+msgid "Map Marker"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_contact.php:142
+msgid "Add image for map marker"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_contact.php:146
+msgid "Map Style"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_contact.php:149
+msgid "Enter map style from <a href=\"https://snazzymaps.com/\">snazzymaps</a>"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_contact.php:153
+msgid "Map Height"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_contact.php:159
+msgid "Enter map height in px"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_contact.php:163
+msgid "Disable Map Description"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_contact.php:166
+msgid "If checked extra info on map will not be displayed"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_contact.php:170
+msgid "Map Details Background"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_contact.php:173
+msgid "Display linear or solid background"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_contact.php:177
+msgid "Map Background"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_contact.php:180
+msgid "Choose a backround Color"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_contact.php:186
+msgid "Contact Extra Info"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_contact.php:189
+msgid "Add extra contact information."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_featuredblog.php:85
+#: includes/visual_composer/shortcodes/sth_featuredblog.php:115
+msgid "Featured Posts"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_featuredblog.php:99
+#: includes/visual_composer/shortcodes/sth_smallslider.php:64
+msgid "Arrow Style"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_featuredblog.php:102
+#: includes/visual_composer/shortcodes/sth_smallslider.php:67
+msgid "Choose between three different arrow style."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_featuredblog.php:106
+#: includes/visual_composer/shortcodes/sth_smallslider.php:71
+msgid "Arrow Postion"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_featuredblog.php:109
+#: includes/visual_composer/shortcodes/sth_smallslider.php:74
+msgid "Choose postion of arrows in slider."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_featuredblog.php:127
+msgid "Choose posts you want to show in slider."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery.php:144
+msgid "Gallery"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery.php:153
+#: includes/visual_composer/shortcodes/sth_portfolioVertical.php:135
+msgid "Feed"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery.php:156
+#: includes/visual_composer/shortcodes/sth_portfolioVertical.php:138
+msgid "Choose source of feed for this modul."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery.php:163
+#: includes/visual_composer/shortcodes/sth_portfolio.php:286
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:205
+#: includes/visual_composer/shortcodes/sth_portfolioVertical.php:167
+msgid "Portfolio Projects"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery.php:179
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:217
+#: includes/visual_composer/shortcodes/sth_portfolioVertical.php:184
+msgid "Choose projects you want to show."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery.php:185
+#: includes/visual_composer/shortcodes/sth_gallery2.php:232
+#: includes/visual_composer/shortcodes/sth_portfolioVertical.php:197
+#: includes/visual_composer/shortcodes/sth_smallslider.php:58
+msgid "Images"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:223
+msgid "Collective Gallery"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:238
+msgid "Image Titles"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:240
+msgid "Enter titles for each image (Note: divide titles with linebreaks (Enter))."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:244
+msgid "Custom links"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:246
+msgid "Enter links for each image (Note: divide links with linebreaks (Enter))."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:250
+#: includes/visual_composer/shortcodes/sth_portfolio.php:300
+msgid "Grid elements per row in lg"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:253
+#: includes/visual_composer/shortcodes/sth_portfolio.php:303
+msgid "Select number of grid elements per row in Large Desktop Screens."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:257
+#: includes/visual_composer/shortcodes/sth_portfolio.php:307
+msgid "Grid elements per row in md"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:260
+#: includes/visual_composer/shortcodes/sth_portfolio.php:310
+msgid "Select number of grid elements per row in Small Desktop Screens and Tablet landscape."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:264
+#: includes/visual_composer/shortcodes/sth_portfolio.php:314
+msgid "Grid elements per row in sm"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:267
+#: includes/visual_composer/shortcodes/sth_portfolio.php:317
+msgid "Select number of single grid elements per row in Tablet portrait."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:271
+#: includes/visual_composer/shortcodes/sth_portfolio.php:359
+msgid "Display as slider"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:275
+#: includes/visual_composer/shortcodes/sth_portfolio.php:363
+msgid "Choose if you want elements to display in slider"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:283
+#: includes/visual_composer/shortcodes/sth_portfolio.php:371
+msgid "Choose item display as squar or vertical rectangle."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:287
+#: includes/visual_composer/shortcodes/sth_portfolio.php:375
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:221
+#: includes/visual_composer/shortcodes/sth_portfolioVertical.php:188
+msgid "Text Position"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:291
+#: includes/visual_composer/shortcodes/sth_portfolio.php:379
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:225
+#: includes/visual_composer/shortcodes/sth_portfolioVertical.php:192
+msgid "Choose position of title and category."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:295
+#: includes/visual_composer/shortcodes/sth_portfolio.php:383
+msgid "Text Decoration"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:299
+#: includes/visual_composer/shortcodes/sth_portfolio.php:387
+msgid "If yes in diagonal with text will apear a decoration."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:303
+#: includes/visual_composer/shortcodes/sth_portfolio.php:391
+msgid "Item Offset"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:307
+#: includes/visual_composer/shortcodes/sth_portfolio.php:395
+msgid "Set gap between grid elements ex:5. for default value set -1."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:311
+#: includes/visual_composer/shortcodes/sth_portfolio.php:399
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:229
+msgid "Border Offset"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:315
+#: includes/visual_composer/shortcodes/sth_portfolio.php:403
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:233
+msgid "Set offset of border inside item ex:10."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:319
+#: includes/visual_composer/shortcodes/sth_portfolio.php:407
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:237
+msgid "Overlay Offset"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:323
+#: includes/visual_composer/shortcodes/sth_portfolio.php:411
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:241
+msgid "Set offset of overlay inside item ex:5."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:327
+#: includes/visual_composer/shortcodes/sth_portfolio.php:415
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:245
+msgid "Overlay Color"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:331
+#: includes/visual_composer/shortcodes/sth_portfolio.php:419
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:249
+msgid "Set overlay color."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:335
+#: includes/visual_composer/shortcodes/sth_portfolio.php:423
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:253
+msgid "Overlay Opacity"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:339
+#: includes/visual_composer/shortcodes/sth_portfolio.php:427
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:257
+msgid "Set overlay opacity 0-9."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:343
+#: includes/visual_composer/shortcodes/sth_portfolio.php:431
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:261
+msgid "Overlay Active"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:347
+#: includes/visual_composer/shortcodes/sth_portfolio.php:435
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:265
+msgid "If Yes overlay will be active if no it will be active only on hover."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:351
+#: includes/visual_composer/shortcodes/sth_portfolio.php:439
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:269
+msgid "Text Overlay Offset"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:355
+#: includes/visual_composer/shortcodes/sth_portfolio.php:443
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:273
+msgid "Set offset of text from overlay ex:5."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:359
+#: includes/visual_composer/shortcodes/sth_portfolio.php:447
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:277
+msgid "Title Color"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:363
+#: includes/visual_composer/shortcodes/sth_portfolio.php:451
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:281
+msgid "Set post title color."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:367
+#: includes/visual_composer/shortcodes/sth_portfolio.php:463
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:293
+msgid "Item Hover Effect"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_gallery2.php:371
+#: includes/visual_composer/shortcodes/sth_portfolio.php:467
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:297
+msgid "Choose if you want zoom effect on hover of items."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_portfolio.php:293
+msgid "Total items"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_portfolio.php:296
+msgid "Set max limit for items in grid or enter -1 to display all."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_portfolio.php:322
+msgid "Portfolio Categories"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_portfolio.php:340
+msgid "Include portfolio categories if empty returns posts from all categories."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_portfolio.php:344
+msgid "Sorting"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_portfolio.php:455
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:285
+msgid "Category Color"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_portfolio.php:459
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:289
+msgid "Set category color."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_portfolioMosaic.php:196
+msgid "Portfolio Mosaic"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_portfolioVertical.php:117
+msgid "Portfolio Vertical"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_portfolioVertical.php:129
+msgid "Enter Title."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_portfolioVertical.php:147
+msgid "Choose between fullscreen and specific height for this element."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_portfolioVertical.php:153
+msgid "Specific Height"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_portfolioVertical.php:160
+msgid "Set height for this element."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_portfolioVertical.php:191
+msgid "Design options"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_portfolioVertical.php:211
+msgid "Image Title"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_portfolioVertical.php:218
+msgid "Image number"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_portfolioVertical.php:225
+msgid "Image link"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_priceTables.php:76
+msgid "Pricing Table"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_priceTables.php:99
+msgid "Price Column"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_priceTables.php:109
+msgid "Column Title"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_priceTables.php:112
+msgid "Enter title for this column"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_priceTables.php:118
+msgid "Column Price"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_priceTables.php:121
+msgid "Enter Price for this column"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_priceTables.php:127
+msgid "Color"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_priceTables.php:130
+msgid "Choose a color"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_priceTables.php:136
+msgid "Description"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_priceTables.php:139
+#: includes/visual_composer/shortcodes/sth_priceTables.php:154
+msgid "Enter Description"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_priceTables.php:144
+msgid "Column Items"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_priceTables.php:151
+msgid "Item Title"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_priceTables.php:160
+msgid "Yes"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_priceTables.php:163
+msgid "Check if feature is part of this package"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_services.php:56
+msgid "Services"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_services.php:65
+msgid "Service Title"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_services.php:68
+msgid "Enter service title"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_services.php:72
+msgid "Title color"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_services.php:74
+#: includes/visual_composer/shortcodes/sth_services.php:181
+msgid "Select icon color."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_services.php:80
+msgid "Icon type"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_services.php:83
+msgid "Select icon library."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_services.php:87
+#: includes/visual_composer/shortcodes/sth_services.php:102
+#: includes/visual_composer/shortcodes/sth_services.php:117
+#: includes/visual_composer/shortcodes/sth_services.php:132
+#: includes/visual_composer/shortcodes/sth_services.php:147
+msgid "Icon"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_services.php:164
+msgid "Icon Aligment"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_services.php:167
+msgid "Set position of icon on right or top of content."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_services.php:171
+msgid "Size"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_services.php:175
+msgid "Select toggle size"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_services.php:179
+msgid "Icon color"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_services.php:185
+msgid "URL (Link)"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_services.php:187
+msgid "Enter button link."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_services.php:193
+msgid "Service Content"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_services.php:196
+msgid "Add service content"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_slider.php:176
+#: includes/visual_composer/shortcodes/sth_slider.php:192
+msgid "Slider"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_slider.php:195
+msgid "Choose slider you want to add"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_smallslider.php:49
+msgid "Small Slider"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_smallslider.php:78
+msgid "Image size"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_smallslider.php:80
+msgid "Enter image size (Example: \"thumbnail\", \"medium\", \"large\", \"full\" or other sizes defined by theme).Leave parameter empty to use \"thumbnail\" by default."
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_testimonials.php:70
+msgid "Testimonials"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_testimonials.php:91
+msgid "Enter Author's position"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_testimonials.php:106
+msgid "Image position"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_testimonials.php:109
+msgid "Choose image position"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_testimonials.php:115
+msgid "Testimonial"
+msgstr ""
+
+#: includes/visual_composer/shortcodes/sth_testimonials.php:118
+msgid "Add Testimonial"
+msgstr ""
+
+#: includes/visual_composer/sth-vc-controller.php:35
+msgid "Subtitle"
+msgstr ""
+
+#: includes/visual_composer/sth-vc-controller.php:38
+msgid "Enter section subtitle (Note: you can leave it empty)"
+msgstr ""
+
+#: includes/visual_composer/sth-vc-controller.php:42
+msgid "Backround Image"
+msgstr ""
+
+#: includes/visual_composer/sth-vc-controller.php:45
+msgid "New style attribute"
+msgstr ""
+
+#: includes/visual_composer/sth-vc-controller.php:49
+msgid "Padding top-bottom"
+msgstr ""
+
+#: includes/visual_composer/sth-vc-controller.php:52
+#: includes/visual_composer/sth-vc-controller.php:59
+msgid "Add padding."
+msgstr ""
+
+#: includes/visual_composer/sth-vc-controller.php:56
+msgid "Padding left-right"
+msgstr ""
+
+#: includes/woocommerce-functions.php:186
+msgid "Remove this item"
+msgstr ""
+
+#: includes/woocommerce-functions.php:209
+msgid "No products in the cart."
+msgstr ""
+
+#: includes/woocommerce-functions.php:217
+msgid "Subtotal"
+msgstr ""
+
+#: includes/woocommerce-functions.php:222
+msgid "View Cart"
+msgstr ""
+
+#: includes/woocommerce-functions.php:223
+msgid "Checkout"
+msgstr ""
+
+#: search.php:10
+msgid "Search Results"
+msgstr ""
+
+#: single-project1.php:87 single-project1.php:98 single-project1.php:148
+#: single-project1.php:159 single-project2.php:86 single-project2.php:97
+msgid "<h4 class=\"text-uppercase\">%title</h4><span>Previous Project</span>"
+msgstr ""
+
+#: single.php:112
+msgid "category"
+msgstr ""
+
+#: single.php:125
+msgid "author"
+msgstr ""
+
+#: single.php:133
+msgid "tags"
+msgstr ""
+
+#: template-blog.php:78
+msgid "load more"
+msgstr ""
+
+#: template-portfolio.php:90 template-portfolio.php:109
+#: template-portfolioMosaic.php:80 template-portfolioMosaic.php:99
+msgid "All"
+msgstr ""
+
+#: template-portfolio.php:215 template-portfolioMosaic.php:216
+msgid "LOAD MORE"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:393
+#: tgm/class-tgm-plugin-activation.php:912
+#: tgm/class-tgm-plugin-activation.php:2618
+#: tgm/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:394
+#: tgm/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1019
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1019
+#: tgm/class-tgm-plugin-activation.php:1022
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1022
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3592
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3594
+#: tgm/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3594
+#: tgm/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3600
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: tgm/plugins.php:60
+msgid "StonedThemes-Plugin"
+msgstr ""
+
+#: tgm/plugins.php:71
+msgid "Contact Form 7"
+msgstr ""
+
+#: tgm/plugins.php:76
+msgid "WooCommerce"
+msgstr ""
+
+#: tgm/stonedthemes_visual_composer.php:24
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:35
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:56
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:70
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:74
+#: woocommerce/single-product-reviews.php:75
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+#: woocommerce/single-product-reviews.php:77
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:99
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:105
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:114
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""

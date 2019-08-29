@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset=utf-8>
+		<title>Animation Show</title>
+		<link rel=stylesheet href="css/custom.css">
+	</head>
+	<body>
+        <script src="js/three.js"></script>
+        <script src="js/GLTFLoader.js"></script>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <div id="animation"></div>
+		<script type="text/javascript">
+			var scene, renderer;
+            var camera;
+            var mesh;
+
+            var isMouseDown = false;
+            
+            function init() {
+                
+                scene = new THREE.Scene(); 
+                
+                camera = new THREE.PerspectiveCamera(45, window.innerWidth / window.innerHeight, 1, 10000);
+                camera.position.set(0, 0, 500); 
+                camera.destination = {x:0,y:0,z:500};
+                
+                renderer = new THREE.WebGLRenderer(); 
+                renderer.setSize( window.innerWidth, window.innerHeight ); 
+                document.getElementById("animation").appendChild( renderer.domElement );
+
+                // $('#animation').append('<p>Close X</p>');
+
+                // $('#animation').on('click', 'p', function() { 
+                    
+				// 	$('#animation').hide();
+				// });
+
+                renderer.setClearColor(0x000000, 1); 
+                renderer.gammaOutput = true;
+    
+                var light = new THREE.DirectionalLight("#c1582d", 1);
+                var ambient = new THREE.AmbientLight("#85b2cd");
+                light.position.set( 0, -70, 100 ).normalize();
+                scene.add(light);
+                scene.add(ambient);
+
+                var texture = new THREE.Texture();
+                var manager = new THREE.LoadingManager();
+                manager.onProgress = function ( item, loaded, total ) {};
+                var onProgress = function ( xhr ) {};
+                var onError = function ( xhr ) {};
+
+                var loader = new THREE.GLTFLoader();
+
+       
+                function getQueryStringValue (key) {  
+                    return decodeURIComponent(window.location.search.replace(new RegExp("^(?:.*[&\\?]" + encodeURIComponent(key).replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));  
+                }  
+                const imageUrl = getQueryStringValue("url");
+
+                loader.load(
+                    imageUrl,
+                // called when the resource is loaded
+                    function ( gltf ) {
+
+                            mesh = gltf.scene;
+                            mesh.scale.set( 10, 10, 10 );
+                            scene.add( mesh );
+
+                            //gltf.animations; // Array<THREE.AnimationClip>
+                            //gltf.scene; // THREE.Scene
+                            //gltf.scenes; // Array<THREE.Scene>
+                            //gltf.cameras; // Array<THREE.Camera>
+                            //gltf.asset; // Object
+
+                    },
+            // called when loading is in progresses
+                    function ( xhr ) {
+
+                            console.log( ( xhr.loaded / xhr.total * 100 ) + '% loaded' );
+
+                    },
+                    // called when loading has errors
+                    function ( error ) {
+
+                            console.log( 'An error happened' );
+
+                    }
+            );
+    
+            document.addEventListener("mousedown", onMouseDown);
+            document.addEventListener("touchstart", onMouseDown);
+            document.addEventListener("mouseup", onMouseUp);
+            document.addEventListener("touchend", onMouseUp);
+            document.addEventListener("mousemove", onMouseMove);
+            document.addEventListener("touchmove", onMouseMove);
+            document.addEventListener("mousewheel", onDocumentMouseWheel);
+            animate();
+           // render();   
+        }
+
+        function render() {
+
+            requestAnimationFrame( render ); 
+            renderer.render(scene, camera); 
+        }
+
+
+       
+        function onMouseDown(event) {
+            isMouseDown = true;
+        }
+
+        
+        function onMouseMove(event) {
+            if (isMouseDown) {
+                
+                if ( mesh ) {
+                    mesh.rotation.y = getMouseX(event)/50;
+                    mesh.rotation.x = getMouseY(event)/50;
+
+                }
+            }
+        }
+        function onWindowResize() {        
+            camera.aspect = window.innerWidth / window.innerHeight;
+            camera.updateProjectionMatrix();
+            renderer.setSize( window.innerWidth, window.innerHeight );
+            render();
+        }
+        function onDocumentMouseWheel( event ) {
+
+            camera.destination.z += event.deltaY;
+
+        }
+        function animate() {
+            //Request another frame of the animation
+            requestAnimationFrame(animate);
+
+            camera.position.x += (camera.destination.x - camera.position.x)*0.02;
+            camera.position.y += (camera.destination.y - camera.position.y)*0.02;
+            camera.position.z += (camera.destination.z - camera.position.z)*0.02;
+
+            //Render the scene
+            renderer.render(scene, camera);
+        };
+        
+        function onMouseUp(event) {
+            isMouseDown = false;
+        }
+
+        function getMouseX(event) {
+            if (event.type.indexOf("touch") == -1)
+                return event.clientX;
+            else
+                return event.touches[0].clientX;
+        }
+
+        function getMouseY(event) {
+            if (event.type.indexOf("touch") == -1)
+                return event.clientY;
+            else
+                return event.touches[0].clientY;
+        }
+
+        window.addEventListener('DOMContentLoaded', init);
+
+			
+		</script>
+	</body>
+</html>

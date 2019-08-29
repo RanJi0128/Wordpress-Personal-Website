@@ -1,0 +1,582 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Buttons with Style Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-28 10:17+0000\n"
+"PO-Revision-Date: 2017-01-28 10:18+0000\n"
+"Last-Translator: admin <pratikjain@sptechnolab.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: bwsp-plugin-updater.php:26
+msgid "Plugin License - Buttons with Style Pro"
+msgstr ""
+
+#: bwsp-plugin-updater.php:26
+msgid "Plugin License"
+msgstr ""
+
+#: bwsp-plugin-updater.php:69
+msgid "Enter plugin license key."
+msgstr ""
+
+#: bwsp-plugin-updater.php:75
+msgid "Activate License"
+msgstr ""
+
+#: bwsp-plugin-updater.php:166 bwsp-plugin-updater.php:213
+#: bwsp-plugin-updater.php:273
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: bwsp-plugin-updater.php:180
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: bwsp-plugin-updater.php:187
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: bwsp-plugin-updater.php:192
+msgid ""
+"Plugin license is invalid. Please be sure you have entered right plugin "
+"license key."
+msgstr ""
+
+#: bwsp-plugin-updater.php:198
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: bwsp-plugin-updater.php:203
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: bwsp-plugin-updater.php:208
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: bwsp-plugin-updater.php:308
+msgid "Enter valid license key for automatic updates."
+msgstr ""
+
+#: bwsp-plugin-updater.php:323
+msgid "Activate Plugin License"
+msgstr ""
+
+#: bwsp-plugin-updater.php:323
+msgid "License"
+msgstr ""
+
+#: includes/bwsp-functions.php:20 includes/admin/class-bwsp-admin.php:192
+msgid "Simple Button"
+msgstr ""
+
+#: includes/bwsp-functions.php:21
+msgid "Button Group"
+msgstr ""
+
+#: includes/bwsp-functions.php:35
+msgid "Square"
+msgstr ""
+
+#: includes/bwsp-functions.php:36
+msgid "Radius"
+msgstr ""
+
+#: includes/bwsp-functions.php:37
+msgid "Round"
+msgstr ""
+
+#: includes/bwsp-functions.php:50
+msgid "Black"
+msgstr ""
+
+#: includes/bwsp-functions.php:51
+msgid "White"
+msgstr ""
+
+#: includes/bwsp-functions.php:52
+msgid "Light Grey"
+msgstr ""
+
+#: includes/bwsp-functions.php:53
+msgid "Grey"
+msgstr ""
+
+#: includes/bwsp-functions.php:54
+msgid "Azure"
+msgstr ""
+
+#: includes/bwsp-functions.php:55
+msgid "Moderate Green"
+msgstr ""
+
+#: includes/bwsp-functions.php:56
+msgid "Soft Red"
+msgstr ""
+
+#: includes/bwsp-functions.php:57
+msgid "Green"
+msgstr ""
+
+#: includes/bwsp-functions.php:58
+msgid "Bright Yellow"
+msgstr ""
+
+#: includes/bwsp-functions.php:59 includes/bwsp-functions.php:67
+msgid "Cyan"
+msgstr ""
+
+#: includes/bwsp-functions.php:60
+msgid "Orange"
+msgstr ""
+
+#: includes/bwsp-functions.php:61
+msgid "Moderate Violet"
+msgstr ""
+
+#: includes/bwsp-functions.php:62
+msgid "Dark Magenta"
+msgstr ""
+
+#: includes/bwsp-functions.php:63
+msgid "Dark Grayish Orange"
+msgstr ""
+
+#: includes/bwsp-functions.php:64
+msgid "Moderate Blue"
+msgstr ""
+
+#: includes/bwsp-functions.php:65
+msgid "Blue"
+msgstr ""
+
+#: includes/bwsp-functions.php:66
+msgid "Red"
+msgstr ""
+
+#: includes/bwsp-functions.php:68
+msgid "Magenta"
+msgstr ""
+
+#: includes/bwsp-functions.php:69
+msgid "Lime"
+msgstr ""
+
+#: includes/bwsp-functions.php:70
+msgid "Pink"
+msgstr ""
+
+#: includes/bwsp-functions.php:71
+msgid "Vivid Yellow"
+msgstr ""
+
+#: includes/bwsp-functions.php:72
+msgid "Lime Green"
+msgstr ""
+
+#: includes/bwsp-functions.php:73
+msgid "Yellow"
+msgstr ""
+
+#: includes/bwsp-functions.php:86
+msgid "Plane"
+msgstr ""
+
+#: includes/bwsp-functions.php:87
+msgid "Border"
+msgstr ""
+
+#: includes/bwsp-functions.php:88
+msgid "Shadow"
+msgstr ""
+
+#: includes/bwsp-functions.php:101 includes/bwsp-functions.php:119
+#: includes/bwsp-functions.php:135
+msgid "Small"
+msgstr ""
+
+#: includes/bwsp-functions.php:102
+msgid "Medium"
+msgstr ""
+
+#: includes/bwsp-functions.php:103 includes/bwsp-functions.php:120
+#: includes/bwsp-functions.php:136
+msgid "Large"
+msgstr ""
+
+#: includes/bwsp-functions.php:104 includes/bwsp-functions.php:121
+msgid "Expand"
+msgstr ""
+
+#: includes/bwsp-functions.php:118
+msgid "Star"
+msgstr ""
+
+#: includes/bwsp-functions.php:134
+msgid "Tiny"
+msgstr ""
+
+#: includes/bwsp-post-types.php:21 includes/bwsp-post-types.php:22
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:195
+msgid "Button Style"
+msgstr ""
+
+#: includes/bwsp-post-types.php:23
+msgid "Add Button"
+msgstr ""
+
+#: includes/bwsp-post-types.php:24
+msgid "Add New Button"
+msgstr ""
+
+#: includes/bwsp-post-types.php:25
+msgid "Edit Button"
+msgstr ""
+
+#: includes/bwsp-post-types.php:26
+msgid "New Button"
+msgstr ""
+
+#: includes/bwsp-post-types.php:27
+msgid "View Button"
+msgstr ""
+
+#: includes/bwsp-post-types.php:28
+msgid "Search Button"
+msgstr ""
+
+#: includes/bwsp-post-types.php:29
+msgid "No Button found"
+msgstr ""
+
+#: includes/bwsp-post-types.php:30
+msgid "No Button found in trash"
+msgstr ""
+
+#: includes/bwsp-post-types.php:32
+msgid "Button Style Pro"
+msgstr ""
+
+#: includes/bwsp-post-types.php:66 includes/bwsp-post-types.php:69
+msgid "Button updated."
+msgstr ""
+
+#: includes/bwsp-post-types.php:67
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/bwsp-post-types.php:68
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/bwsp-post-types.php:70
+#, php-format
+msgid "Button restored to revision from %s"
+msgstr ""
+
+#: includes/bwsp-post-types.php:71
+msgid "Button published."
+msgstr ""
+
+#: includes/bwsp-post-types.php:72
+msgid "Button saved."
+msgstr ""
+
+#: includes/bwsp-post-types.php:73
+msgid "Button submitted."
+msgstr ""
+
+#: includes/bwsp-post-types.php:74
+#, php-format
+msgid "Button scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/bwsp-post-types.php:76
+msgid "Button draft updated."
+msgstr ""
+
+#: includes/class-bwsp-script.php:88
+msgid "Sorry, One entry should be there."
+msgstr ""
+
+#: includes/admin/bwsp-how-it-work.php:22
+msgid "How it works, our plugins and offers"
+msgstr ""
+
+#: includes/admin/bwsp-how-it-work.php:22
+#: includes/admin/bwsp-how-it-work.php:118
+msgid "How It Works"
+msgstr ""
+
+#: includes/admin/bwsp-how-it-work.php:103
+msgid ""
+"There was an error retrieving the data from the server. Please try again "
+"later."
+msgstr ""
+
+#: includes/admin/bwsp-how-it-work.php:121
+msgid "Our Plugins"
+msgstr ""
+
+#: includes/admin/bwsp-how-it-work.php:127
+msgid "WPOS Offers"
+msgstr ""
+
+#: includes/admin/bwsp-how-it-work.php:163
+msgid "How It Works - Display and Shortcode"
+msgstr ""
+
+#: includes/admin/bwsp-how-it-work.php:172
+msgid "How to use Foundation Icon"
+msgstr ""
+
+#: includes/admin/bwsp-how-it-work.php:176
+msgid "Step-1. Add the shortcode as shaown bellow"
+msgstr ""
+
+#: includes/admin/bwsp-how-it-work.php:177
+msgid "Step-2. If you want to add the iocn with button and check the step-3."
+msgstr ""
+
+#: includes/admin/bwsp-how-it-work.php:178
+msgid "Step-3. Go to below URL."
+msgstr ""
+
+#: includes/admin/bwsp-how-it-work.php:180
+msgid ""
+"Step-4. Copy class name and paste in \"icon_class\" short code perameter."
+msgstr ""
+
+#: includes/admin/bwsp-how-it-work.php:187
+msgid "Button Shortcode"
+msgstr ""
+
+#: includes/admin/bwsp-how-it-work.php:208
+msgid "Need Support?"
+msgstr ""
+
+#: includes/admin/bwsp-how-it-work.php:211
+msgid "Check plugin document for shortcode parameters and demo for designs."
+msgstr ""
+
+#: includes/admin/bwsp-how-it-work.php:212
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/bwsp-how-it-work.php:213
+msgid "View PRO Designs "
+msgstr ""
+
+#: includes/admin/bwsp-how-it-work.php:224
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/bwsp-how-it-work.php:227
+msgid "Enjoyed this plugin? You can help by rate this plugin"
+msgstr ""
+
+#: includes/admin/bwsp-how-it-work.php:227
+msgid "5 stars!"
+msgstr ""
+
+#: includes/admin/class-bwsp-admin.php:50
+msgid "Buttons With Style Pro - Settings"
+msgstr ""
+
+#: includes/admin/class-bwsp-admin.php:119
+#: includes/admin/class-bwsp-admin.php:119
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-bwsp-admin.php:163
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:53
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:159
+msgid "Button Type"
+msgstr ""
+
+#: includes/admin/class-bwsp-admin.php:164
+msgid "Shortcode"
+msgstr ""
+
+#: includes/admin/class-bwsp-admin.php:222
+msgid "View Documentation"
+msgstr ""
+
+#: includes/admin/class-bwsp-admin.php:222
+msgid "Docs"
+msgstr ""
+
+#: includes/admin/class-bwsp-admin.php:223
+msgid "Visit Customer Support Forum"
+msgstr ""
+
+#: includes/admin/class-bwsp-admin.php:223
+msgid "Support"
+msgstr ""
+
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:65
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:171
+msgid "Select button type."
+msgstr ""
+
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:76
+msgid "Simple Button Settings"
+msgstr ""
+
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:80
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:110
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:124
+msgid "Button Text"
+msgstr ""
+
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:83
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:125
+msgid "Enter button text like. eg. My Button"
+msgstr ""
+
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:87
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:111
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:128
+msgid "Button Link"
+msgstr ""
+
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:90
+msgid "Enter button link. eg. http://wponlinesupport.com."
+msgstr ""
+
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:94
+msgid "Button Icon"
+msgstr ""
+
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:97
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:133
+msgid "e.g. star, For more"
+msgstr ""
+
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:97
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:133
+msgid "Click Here"
+msgstr ""
+
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:106
+msgid "Group Button Settings"
+msgstr ""
+
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:112
+msgid "Font Icon"
+msgstr ""
+
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:113
+msgid "Action"
+msgstr ""
+
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:129
+msgid "eg. http://wponlinesupport.com."
+msgstr ""
+
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:132
+msgid "Icon Class"
+msgstr ""
+
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:136
+msgid "Add"
+msgstr ""
+
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:137
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:154
+msgid "Button Settings"
+msgstr ""
+
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:177
+msgid "Button Color Class"
+msgstr ""
+
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:189
+msgid "Select button color."
+msgstr ""
+
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:207
+msgid "Select button style."
+msgstr ""
+
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:213
+msgid "Button Size"
+msgstr ""
+
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:225
+msgid "Select button size."
+msgstr ""
+
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:231
+msgid "Button Icon Size"
+msgstr ""
+
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:243
+msgid "Select button icon size."
+msgstr ""
+
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:249
+msgid "Button Target"
+msgstr ""
+
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:253
+msgid "Same Tab"
+msgstr ""
+
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:254
+msgid "New Tab"
+msgstr ""
+
+#: includes/admin/metabox/bwsp-post-sett-metabox.php:256
+msgid "Select link behaviour."
+msgstr ""
+
+#: includes/admin/settings/bwsp-settings.php:15
+msgid "Buttons With Style Pro Settings"
+msgstr ""
+
+#: includes/admin/settings/bwsp-settings.php:41
+msgid "Custom CSS Settings"
+msgstr ""
+
+#: includes/admin/settings/bwsp-settings.php:50
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/admin/settings/bwsp-settings.php:54
+msgid "Enter custom CSS to override plugin CSS."
+msgstr ""
+
+#: includes/admin/settings/bwsp-settings.php:59
+msgid "Save Changes"
+msgstr ""
+
+#. Name of the plugin
+msgid "Buttons with Style Pro"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Wordpress buttons generator, Different Styles on which you can add to your "
+"website using easy short code."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wponlinesupport.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP Online Support"
+msgstr ""

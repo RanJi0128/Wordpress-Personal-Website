@@ -1,0 +1,16 @@
+.acf-radio-list img{
+   width: calc(100% - 33px);
+   vertical-align: middle;
+}
+
+.acf-field-555ce0ba2745f ul.acf-radio-list li label{
+	display: block;
+}
+
+.acf-field-555ce0ba2745f .acf-radio-list input[type="radio"]:checked ~ img{
+	border-left: 2px solid #1e8cbe;
+}
+
+.acf-field-555ce0ba2745f .acf-radio-list input[type="radio"]{
+	margin-right: 15px;
+}

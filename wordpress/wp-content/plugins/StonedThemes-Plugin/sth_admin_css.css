@@ -1,0 +1,14 @@
+#wpadminbar #wp-admin-bar-my-account.with-avatar>a img{
+    float: none !important;
+}
+
+#wp-admin-bar-user-info .avatar-64 {
+    position: absolute;
+    left: -72px;
+    top: 4px;
+    width: 64px;
+    height: 64px;
+    float: none !important;
+    max-width: initial;
+    max-height: initial;
+}
